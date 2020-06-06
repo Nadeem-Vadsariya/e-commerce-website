@@ -1,0 +1,15 @@
+.dl-card1 , .dl-card2 ,.dl-card3 ,.dl-card4{
+
+    margin-bottom: 30px;
+    background-color: #757575;
+    border-color: black;
+}
+.deals
+{
+    text-align: center;
+    font-size: xx-large;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-weight: bold;
+    margin-top: 30px;
+}

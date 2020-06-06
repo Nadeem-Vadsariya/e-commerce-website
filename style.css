@@ -1,0 +1,167 @@
+.navbar{
+    background-color:#757575 !important;
+}
+
+.nav-link{
+    color:black !important;
+    font-weight: bolder;
+    
+}
+
+.nav-item:hover{
+    text-transform: uppercase;
+    background-color:white ;
+    text-underline-position: below;
+    display: flex;
+    padding-block:2ch;
+
+
+}
+
+.navbar-brand{
+    width: 5px;
+}
+.fa-shopping-cart,.fa-user
+{
+    font-size: 30px !important;
+    color: black;
+    margin-right: 10px;
+}    
+.comp{
+    background-color: white;
+}
+.announcement{
+    
+    margin-top: 40px;
+    font-weight: bold;
+    font-size: xx-large;
+    text-decoration: underline;
+    text-align: center;
+  
+}
+h3{
+    color:black;
+}
+.main
+{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.fit{
+
+    height: 300px ;
+    width: 300px;
+}
+.new-arrivals
+{
+    margin-top: 30px;
+}
+.serv{
+    margin-top: 50px;
+    color:black;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+    font-size: xx-large;
+    
+
+
+    
+    
+}
+.container{
+    margin-top: 50px;
+}
+
+.card{
+    background-color:#757575  ;
+}
+
+.on-ftr{
+    background-color:#757575;
+    padding:25px 0 0 0;
+    color:white;
+}
+.clr-1{
+    color: black;
+    font-weight:bold;
+}
+.clr-2{
+    color: white;
+}
+
+.ftr-des{
+    padding:30px 0;
+}
+
+.ic{
+    margin-top: 20px;
+}
+
+.fb:hover{
+    color: black;
+    text-decoration:white;
+    margin-right: 10px;
+}
+.twt:hover{
+    color: black;
+    text-decoration:white;
+    margin-right: 10px;
+  
+}
+.ins:hover{
+    color: black;
+    text-decoration:white;
+    margin-right: 10px;
+   
+}
+.you:hover{
+    color: black;
+    text-decoration:white;
+    margin-right: 10px;
+   
+}
+.pint:hover{
+    color: black;
+    text-decoration:white;
+    margin-right: 10px;
+  
+}
+
+.fa-facebook{
+    margin-right: 10px;
+}
+
+.fa-instagram{
+    margin-right: 10px;
+}
+.fa-youtube{
+    margin-right: 10px;
+}
+.fa-pinterest{
+    margin-right: 10px;
+}
+.fa-twitter{
+    margin-right: 10px;
+}
+
+
+.btn
+{
+    margin-top: 10px; 
+}
+.end-ftr{
+    justify-content: center;
+    background-color: white;
+    color: black;
+    
+}
+
+.fa-copyright{
+
+    margin-left: 2px;
+    margin-right:2px;
+} 
